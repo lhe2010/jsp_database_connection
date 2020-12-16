@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,7 +12,5 @@
 		패스워드 : <input type="password" name="passwd"><br>
 		<input type="submit" value="입력완료">
 	</form>
-
-
 </body>
 </html>
