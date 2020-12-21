@@ -1,5 +1,5 @@
-<%@page import="_02_login.MemberDTO"%>
-<%@page import="_02_login.MemberDAO"%>
+<%@page import="step2_00_loginEx.MemberDTO"%>
+<%@page import="step2_00_loginEx.MemberDAO"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>

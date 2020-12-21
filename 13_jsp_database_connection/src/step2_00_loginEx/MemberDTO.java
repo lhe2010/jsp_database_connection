@@ -1,4 +1,4 @@
-package _02_login;
+package step2_00_loginEx;
 
 import java.sql.Timestamp;
 
