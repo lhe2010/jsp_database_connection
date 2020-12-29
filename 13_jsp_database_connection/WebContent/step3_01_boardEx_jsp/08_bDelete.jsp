@@ -44,6 +44,7 @@
 								</tr>
 								<tr class="table-default" align="right">
 									<td colspan="4">
+										<input type="hidden" name="num" value="<%=num%>" />
 										<input type="submit" class="btn btn-primary btn-sm" value="글삭제">
 										<input type="button" class="btn btn-primary btn-sm" onclick="location.href='04_bList.jsp'" value="목록보기">
 									</td>
